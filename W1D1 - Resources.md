@@ -1,5 +1,5 @@
 ## Mozilla Web Resources - Best Official Resources 
-Covers ALL web browsers!
+Covers ALL web browsers: Firefox, Chrome, Edge, Explorer, Safari and more!
 
 * https://developer.mozilla.org/en-US/
 * https://developer.mozilla.org/en-US/docs/Web/HTML
