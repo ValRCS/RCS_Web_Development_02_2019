@@ -20,7 +20,7 @@ We will use this to practice!
 
 Alternatives: Atom, Notepad++, Gedit, vim, emacs, Sublime and many more, BUT **NOT WORD!**
 
-What is source control and Git?
+## What is source control and Git?
 
 ## Official Git Site
 https://git-scm.com/
