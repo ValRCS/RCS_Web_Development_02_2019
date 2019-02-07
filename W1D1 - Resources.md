@@ -14,6 +14,12 @@ We will use this to practice!
 ## W3Schools - Not official but has improved
 * https://www.w3schools.com/
 
+## Code Editors
+
+* https://code.visualstudio.com/
+
+Alternatives: Atom, Notepad++, Gedit, vim, emacs, Sublime and many more, BUT **NOT WORD!**
+
 What is source control and Git?
 
 ## Official Git Site
