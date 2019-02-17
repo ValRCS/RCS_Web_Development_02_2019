@@ -5,6 +5,8 @@
 * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 * https://www.w3schools.com/css/css_grid.asp
 
+## CSS Grid is different from older grid framwork libraries(based on floats, flexbox)
+
 ## How do we create a basic grid?
 
 We create a grid container by declaring display: grid or display: inline-grid on an element. As soon as we do this, all direct children of that element become grid items.
