@@ -13,6 +13,7 @@ https://bulma.io/documentation/overview/start/
 1. Use NPM (recommended):
 
    npm install bulma
+   
    Will need node.js (server side Javascript) installation
    https://nodejs.org/en/download/
 
