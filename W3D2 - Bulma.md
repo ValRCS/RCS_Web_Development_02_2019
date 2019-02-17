@@ -23,4 +23,13 @@ https://bulma.io/documentation/overview/start/
 3. Download from the repository 
 https://github.com/jgthms/bulma/tree/master/css
 
+## Tutorial
+* https://medium.freecodecamp.org/learn-bulma-in-5-minutes-ec5188c53e83
+
+## Bulma examples
+
+* https://dansup.github.io/bulma-templates/
+
+## Opinions on Frameworks
+* https://scotch.io/bar-talk/6-popular-css-frameworks-to-use-in-2019
 
