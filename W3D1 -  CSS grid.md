@@ -9,7 +9,7 @@
 
 ## How do we create a basic grid?
 
-We create a grid container by declaring display: grid or display: inline-grid on an element. As soon as we do this, all direct children of that element become grid items.
+We create a grid container by declaring **display: grid** or display: inline-grid on an element. As soon as we do this, all direct children of that element become grid items.
 
 ## Grid Game
 * https://cssgridgarden.com/
