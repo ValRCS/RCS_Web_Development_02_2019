@@ -25,6 +25,7 @@ https://github.com/jgthms/bulma/tree/master/css
 
 ## Tutorial
 * https://medium.freecodecamp.org/learn-bulma-in-5-minutes-ec5188c53e83
+* https://medium.freecodecamp.org/free-course-level-up-with-bulma-css-d82dcb4b980a
 
 ## Bulma examples
 
