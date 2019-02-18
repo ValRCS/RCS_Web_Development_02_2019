@@ -5,6 +5,9 @@
 * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 * https://www.w3schools.com/css/css_grid.asp
 
+## Video by Mozilla Designer Explaining how CSS Grid differs from other layout systems
+* https://www.youtube.com/watch?v=FEnRpy9Xfes&list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1
+
 ## CSS Grid is different from older grid framwork libraries(based on floats, flexbox)
 
 ## How do we create a basic grid?
