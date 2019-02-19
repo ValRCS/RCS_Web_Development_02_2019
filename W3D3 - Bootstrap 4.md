@@ -5,6 +5,9 @@
 
 # Various
 
+## CSS rem vs em units
+* https://j.eremy.net/confused-about-rem-and-em/
+
 ## A few HTML tags not yet covered
 
 ### iframe - embedded browser page within a browser page
