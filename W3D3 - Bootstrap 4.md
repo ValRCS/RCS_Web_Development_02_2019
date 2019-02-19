@@ -7,6 +7,7 @@
 
 ## CSS rem vs em units
 * https://j.eremy.net/confused-about-rem-and-em/
+* https://css-tricks.com/theres-more-to-the-css-rem-unit-than-font-sizing/
 
 ## A few HTML tags not yet covered
 
