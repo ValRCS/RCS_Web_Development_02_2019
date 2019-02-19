@@ -6,6 +6,7 @@
 
 * https://getbootstrap.com/docs/4.3/getting-started/introduction/
 * https://getbootstrap.com/docs/4.1/layout/overview/
+* https://getbootstrap.com/docs/4.1/layout/grid/
 
 ## Examples
 * https://getbootstrap.com/docs/4.1/examples/
