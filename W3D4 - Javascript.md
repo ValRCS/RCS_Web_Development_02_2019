@@ -1,0 +1,18 @@
+## Javascript first steps 
+
+### What is Javascript?
+
+* https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+
+## Learning Javascript
+
+* https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript
+* https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+* https://developer.mozilla.org/bm/docs/Web/JavaScript
+* https://www.w3schools.com/js/js_es6.asp
+
+
+## Eloquent Javascript Book 
+
+* https://eloquentjavascript.net/
+
