@@ -34,3 +34,10 @@
 
 * https://practicaltypography.com/
 
+## SCSS - CSS preprocessor
+
+* http://sass-lang.com/guide
+
+### Live Reload of SCSS preprocessor
+* https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
+
