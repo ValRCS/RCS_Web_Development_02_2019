@@ -34,9 +34,17 @@
 
 * https://practicaltypography.com/
 
-## SCSS - CSS preprocessor
+## SASS  / SCSS - CSS preprocessor
 
 * http://sass-lang.com/guide
+
+
+### Setup SCSS file structure for larger projects
+* http://thesassway.com/beginner/how-to-structure-a-sass-project
+* http://www.thesassway.com/beginner/the-inception-rule
+
+## Advanced Themes with Sass
+* https://www.toptal.com/sass/theming-scss-tutorial
 
 ### Live Reload of SCSS preprocessor
 * https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
