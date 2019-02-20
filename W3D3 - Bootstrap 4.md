@@ -2,6 +2,9 @@
 * https://bootstrapbay.com/blog/day-2-bootstrap-4-grid-system-tutorial-examples/
 * https://bootstrapbay.com/blog/day-3-bootstrap-4-flex-tutorial-and-examples/
 
+### We will do the exercises with Bootstrap 4 !!
+* https://www.w3schools.com/bootstrap/exercise_bs3.asp
+
 
 # Various
 
