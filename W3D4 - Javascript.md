@@ -4,6 +4,9 @@
 
 * https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
 
+## Vanilla Javascript the best framework there is!
+* http://vanilla-js.com/
+
 ## Learning Javascript
 
 * https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript
