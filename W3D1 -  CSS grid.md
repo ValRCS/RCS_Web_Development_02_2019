@@ -23,3 +23,6 @@ We create a grid container by declaring **display: grid** or display: inline-gri
 * https://hackernoon.com/the-ultimate-css-battle-grid-vs-flexbox-d40da0449faf
 * https://css-tricks.com/css-grid-replace-flexbox/
 
+## Full CSS Grid Specification (heavy reading)
+* https://drafts.csswg.org/css-grid/#intro
+
