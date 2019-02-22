@@ -5,6 +5,9 @@
 * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 * https://www.w3schools.com/css/css_grid.asp
 
+# Excellent Tutorial
+* https://medium.com/@js_tut/css-grid-tutorial-filling-in-the-gaps-c596c9534611
+
 ## Video by Mozilla Designer Explaining how CSS Grid differs from other layout systems
 * https://www.youtube.com/watch?v=FEnRpy9Xfes&list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1
 
