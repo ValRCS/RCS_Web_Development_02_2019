@@ -11,6 +11,11 @@ Javascript 2015 standard, now in all normal browsers
 ## Compatibility Table for Browsers
 * https://kangax.github.io/compat-table/es6/
 
+# let vs var vs const
+
+* https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+"I tend to think of ‘let’ in terms of highlighting lexical scoping. I use it when I want to tell the next person who reads my code, “This var is going to disappear soon. No need to look elsewhere for it.” - greg barozzi
+
 # Exercises
 * https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6
 * https://www.w3schools.com/Js/js_es6.asp
