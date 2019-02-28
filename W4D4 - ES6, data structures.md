@@ -18,3 +18,10 @@
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 * https://javascript.info/rest-parameters-spread-operator
 
+
+## Immediately exececuted function IIFE
+* https://flaviocopes.com/javascript-iife/
+* https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6
+* https://developer.mozilla.org/en-US/docs/Glossary/IIFE
+
+
