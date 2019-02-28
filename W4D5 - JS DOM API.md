@@ -4,6 +4,8 @@
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from
 * https://medium.freecodecamp.org/https-medium-com-gladchinda-hacks-for-creating-javascript-arrays-a1b80cb372b
 
+Disclaimer: kind of slow, I made a test case to compare: https://jsperf.com/array-from-testing
+
 ## Continue Data Structures
 * https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/generate-an-array-of-all-object-keys-with-object-keys
 
