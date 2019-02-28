@@ -22,3 +22,18 @@ Specific library for javascript to work with DOM (not part of Javascript languag
 ## Another good reference / tutorial page:
 * https://javascript.info/
 * https://javascript.info/browser-environment
+
+
+## Add a new element
+* https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
+* https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild
+* https://www.w3schools.com/js/js_htmldom_nodes.asp
+
+## Remove an element
+* https://developer.mozilla.org/en-US/docs/Web/API/ChildNode/remove
+* https://www.abeautifulsite.net/adding-and-removing-elements-on-the-fly-using-javascript
+* https://stackoverflow.com/questions/8830839/javascript-dom-remove-element
+* https://www.w3schools.com/jsref/met_node_removechild.asp
+
+## Changing DOM in general
+* https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom
