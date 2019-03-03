@@ -12,6 +12,10 @@
 ## onclick vs addEventListener
 * https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick
 
+## handling forms
+
+* https://javascript.info/form-elements
+
 # this in Javascript
 
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
