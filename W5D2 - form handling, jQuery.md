@@ -1,3 +1,8 @@
+# Javascript onchange
+* https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onchange
+* https://www.w3schools.com/jsref/event_onchange.asp
+ 
+
 # jQuery
 * https://learn.jquery.com/about-jquery/how-jquery-works/
 
