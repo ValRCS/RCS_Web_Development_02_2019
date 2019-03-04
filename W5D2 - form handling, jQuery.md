@@ -12,11 +12,22 @@
 # Fetch API
 
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+* https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
+# Promises
+* https://developers.google.com/web/fundamentals/primers/promises
+
+### Fetch vs .getJSON from jQuery
+* http://zetcode.com/articles/javascriptjsonurl/
+* https://stackoverflow.com/questions/43201636/difference-between-fetch-and-getjson
+* https://developer.mozilla.org/en-US/docs/Web/API/Body/json
 
 # jQuery UI
 
 * https://jqueryui.com/
+* https://jqueryui.com/download/
 * https://jqueryui.com/demos/
+
 
 ## Slider
 * https://jqueryui.com/slider/
