@@ -1,3 +1,7 @@
+# jQuery
+* https://learn.jquery.com/about-jquery/how-jquery-works/
+
+
 * Handling forms
 
 * https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
@@ -8,3 +12,11 @@
 # Fetch API
 
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
+# jQuery UI
+
+* https://jqueryui.com/
+
+## Slider
+* https://jqueryui.com/slider/
+
