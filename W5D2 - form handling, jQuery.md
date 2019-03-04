@@ -16,6 +16,7 @@
 # jQuery UI
 
 * https://jqueryui.com/
+* https://jqueryui.com/demos/
 
 ## Slider
 * https://jqueryui.com/slider/
