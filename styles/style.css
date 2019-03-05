@@ -1,0 +1,29 @@
+*, *:before, *:after {
+    -webkit-box-sizing: border-box; 
+    -moz-box-sizing: border-box; 
+    box-sizing: border-box;
+  }
+
+h2 {
+    color: blue;
+    background-color: burlywood;
+    font-family: Lobster;
+}
+
+.red-text {
+    color: red;
+    padding: 30px;
+  }
+
+#green-el {
+    color: green;
+}
+
+p {
+    font-size: 16px;
+    font-family: monospace;
+}
+
+.thick-green-border {
+    border-radius: 10px;
+}
