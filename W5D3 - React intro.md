@@ -19,5 +19,8 @@ A JavaScript library for building user interfaces
 * Chrome - https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
 * Firefox - https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
 
+## React without JSX
+* https://frontarm.com/courses/learn-raw-react/basics/one-file-react-app/
+
 # React exercises
 * https://learn.freecodecamp.org/front-end-libraries/react/
