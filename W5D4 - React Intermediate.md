@@ -13,6 +13,9 @@
 * https://github.com/facebook/create-react-app
 * https://reactjs.org/docs/create-a-new-react-app.html
 
+## Deployment
+* https://facebook.github.io/create-react-app/docs/deployment
+
 #
 ## Example App which is bigger than TODO list
 * https://github.com/tyroprogrammer/learn-react-app
