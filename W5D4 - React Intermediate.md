@@ -1,3 +1,6 @@
+## Main React concepts
+* https://www.taniarascia.com/getting-started-with-react/
+
 ## Add React to website
 * https://reactjs.org/docs/add-react-to-a-website.html
 
