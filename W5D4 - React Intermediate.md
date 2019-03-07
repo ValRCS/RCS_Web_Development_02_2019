@@ -5,6 +5,11 @@
 * https://reactjs.org/docs/add-react-to-a-website.html
 
 # Create React App
+
+## Installing node.js
+* https://nodejs.org/en/download/
+
+## Create React App itself
 * https://github.com/facebook/create-react-app
 * https://reactjs.org/docs/create-a-new-react-app.html
 
