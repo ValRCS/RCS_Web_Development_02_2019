@@ -4,6 +4,10 @@
 ## Add React to website
 * https://reactjs.org/docs/add-react-to-a-website.html
 
+# Create React App
+* https://github.com/facebook/create-react-app
+* https://reactjs.org/docs/create-a-new-react-app.html
+
 #
 ## Example App which is bigger than TODO list
 * https://github.com/tyroprogrammer/learn-react-app
