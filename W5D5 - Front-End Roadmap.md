@@ -14,3 +14,7 @@
 * https://stackoverflow.com/questions/42538611/vs-code-scss-auto-compiling-to-css
 * https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
 
+## BEM Methology for CSS
+* https://css-tricks.com/bem-101/
+* http://getbem.com/introduction/
+
