@@ -42,6 +42,9 @@ Javascript with static type checks plus a few extras
 * https://guide.freecodecamp.org/typescript
 
 
+# Modern CSS explained
+* https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525
+
 ## Modern Javascript explained
 * https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
 
