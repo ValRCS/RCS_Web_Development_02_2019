@@ -23,6 +23,8 @@
 * https://www.w3schools.com/js/js_cookies.asp
 * https://stackoverflow.com/questions/5639346/what-is-the-shortest-function-for-reading-a-cookie-by-name-in-javascript
 
+### Cookies and GDPR - https://www.cookielaw.org/blog/2016/5/13/the-gdpr,-cookie-consent-and-customer-centric-privacy/
+
 ## Fetch API
 
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
