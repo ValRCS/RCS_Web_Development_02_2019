@@ -3,6 +3,11 @@
 * https://github.com/kamranahmedse/developer-roadmap
 ![RoadMap](https://github.com/kamranahmedse/developer-roadmap/raw/master/images/frontend.png)
 
+# SEO basics
+* https://moz.com/beginners-guide-to-seo
+* https://searchenginewatch.com/2016/01/21/seo-basics-22-essentials-you-need-for-optimizing-your-site/
+* https://www.searchenginejournal.com/website-optimization-essentials/280641/
+
 # SASS (using SCSS syntax)
 * https://sass-lang.com/
 * https://learn.freecodecamp.org/front-end-libraries/sass
@@ -17,6 +22,8 @@
 ## BEM Methology for CSS
 * https://css-tricks.com/bem-101/
 * http://getbem.com/introduction/
+
+
 
 # Cookies
 * https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie
