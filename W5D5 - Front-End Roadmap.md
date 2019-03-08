@@ -32,4 +32,16 @@
 * https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data
 * https://jsonplaceholder.typicode.com/
 
-Fetch is to be preferred over older XMLHttpRequest method.
+Fetch is to be preferred over older XMLHttpRequest method which is much more wordy!
+* https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax/get-json-with-the-javascript-xmlhttprequest-method
+
+# Typescript
+Javascript with static type checks plus a few extras
+* https://www.typescriptlang.org/
+* https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+* https://guide.freecodecamp.org/typescript
+
+
+## Modern Javascript explained
+* https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
+
