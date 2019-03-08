@@ -18,3 +18,10 @@
 * https://css-tricks.com/bem-101/
 * http://getbem.com/introduction/
 
+## Fetch API
+
+* https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+* https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data
+* https://jsonplaceholder.typicode.com/
+
+Fetch is to be preferred over older XMLHttpRequest method.
