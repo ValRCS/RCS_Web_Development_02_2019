@@ -21,6 +21,7 @@
 # Cookies
 * https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie
 * https://www.w3schools.com/js/js_cookies.asp
+* https://stackoverflow.com/questions/5639346/what-is-the-shortest-function-for-reading-a-cookie-by-name-in-javascript
 
 ## Fetch API
 
