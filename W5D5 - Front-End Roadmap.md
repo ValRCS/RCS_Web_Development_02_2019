@@ -18,6 +18,10 @@
 * https://css-tricks.com/bem-101/
 * http://getbem.com/introduction/
 
+# Cookies
+* https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie
+* https://www.w3schools.com/js/js_cookies.asp
+
 ## Fetch API
 
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
