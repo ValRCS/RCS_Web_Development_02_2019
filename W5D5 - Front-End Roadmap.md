@@ -33,6 +33,9 @@
 ### Cookies and GDPR 
 * https://www.cookielaw.org/blog/2016/5/13/the-gdpr,-cookie-consent-and-customer-centric-privacy/
 
+## Cookie Library - easier than doing it by hand
+* https://github.com/js-cookie/js-cookie
+
 ## Fetch API
 
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
