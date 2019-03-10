@@ -21,9 +21,11 @@
 # Web Development Stacks
 
 * [LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29)
+
 ![LAMP](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/LAMP_software_bundle.svg/600px-LAMP_software_bundle.svg.png)
 
-* MEAN
+* LAMP(Linux/Apache/MySQL/PHP)
+* MEAN(Mongo/Express/AngularJS/Node)
 * JAMstack
 Many more
 
