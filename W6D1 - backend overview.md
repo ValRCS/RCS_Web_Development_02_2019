@@ -1,7 +1,9 @@
-# Back-end Roadmap
+# Basic: How does a web server work? 
+* https://computer.howstuffworks.com/web-server.htm
+* https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
 
-* https://github.com/kamranahmedse/developer-roadmap 
-![Roadmap](https://github.com/kamranahmedse/developer-roadmap/raw/master/images/backend.png)
+## How do front-end,back-end.full-stack differ?
+* https://blog.usejournal.com/front-end-back-end-full-stack-what-exactly-are-they-talking-about-fbd5d3fd4939
 
 
 ## How does a PHP web server work?
