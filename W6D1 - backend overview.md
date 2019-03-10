@@ -44,6 +44,9 @@ Choose (WAMP/LAMP/MAMP)
 * https://www.tutorialrepublic.com/php-tutorial/
 * https://www.w3schools.com/php7/ - might still show php5 information
 
+## Exercises
+* https://www.phpexercises.com/ - solutions mostly based on older PHP5 but still good to start
+
 # PHP Language Reference
 * https://secure.php.net/manual/en/langref.php
 * https://secure.php.net/manual/en/index.php
