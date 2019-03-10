@@ -6,6 +6,7 @@
 
 ## How does a PHP web server work?
 * https://guide.freecodecamp.org/php/
+![PHP work](https://github.com/xeroxism/myImages/blob/master/FCC_guides/PHP-server-model.png?raw=true)
 
 
 # Statis vs dynamic web pages
