@@ -30,6 +30,17 @@ Choose (WAMP/LAMP/MAMP)
 ## Hello world in PHP
 * https://secure.php.net/manual/en/tutorial.firstpage.php
 
+* https://secure.php.net/manual/en/tutorial.useful.php
+
+## Tutorials
+* https://secure.php.net/manual/en/getting-started.php
+* https://www.tutorialrepublic.com/php-tutorial/
+* https://www.w3schools.com/php7/ - might still show php5 information
+
+# PHP Language Reference
+* https://secure.php.net/manual/en/langref.php
+
+
 ## PHP Code editors
 * https://www.jetbrains.com/phpstorm/ - considered the best IDE for PHP
 * https://www.eclipse.org/pdt/ - older / free option
