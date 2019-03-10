@@ -9,7 +9,12 @@
 ![PHP work](https://github.com/xeroxism/myImages/blob/master/FCC_guides/PHP-server-model.png?raw=true)
 
 
-# Statis vs dynamic web pages
+# Static vs dynamic web pages
+* https://en.wikipedia.org/wiki/Static_web_page
+![Static](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Scheme_static_page_en.svg/750px-Scheme_static_page_en.svg.png)
+
+* https://en.wikipedia.org/wiki/Dynamic_web_page
+![Dynamic](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Scheme_dynamic_page_en.svg/750px-Scheme_dynamic_page_en.svg.png)
 
 # Web Development Stacks
 
@@ -39,6 +44,7 @@ Choose (WAMP/LAMP/MAMP)
 
 # PHP Language Reference
 * https://secure.php.net/manual/en/langref.php
+* https://secure.php.net/manual/en/index.php
 
 
 ## PHP Code editors
