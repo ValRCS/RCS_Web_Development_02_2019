@@ -66,3 +66,25 @@ Ask me about licensing options for PHPStorm
 
 PhpStorm UI
 * https://www.jetbrains.com/help/phpstorm/guided-tour-around-the-user-interface.html
+
+
+# Final Project - TODO list
+
+## Gathering requirements
+
+1. Create TODOs
+2. Read TODOs
+3. Update TODOs
+4. Delete TODOs
+
+Extra requirements
+1. Create User
+2. Authorize User
+3. Logout User
+
+Bonuses
+Filters, Graphics
+
+For more:
+#### User Stories
+* https://en.wikipedia.org/wiki/User_story
