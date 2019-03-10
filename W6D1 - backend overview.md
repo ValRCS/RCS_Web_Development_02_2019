@@ -44,5 +44,14 @@ Choose (WAMP/LAMP/MAMP)
 ## PHP Code editors
 * https://www.jetbrains.com/phpstorm/ - considered the best IDE for PHP
 * https://www.eclipse.org/pdt/ - older / free option
+* Visual Studio Code PHP support kind of iffy
 
-Ask me about licensing options
+Ask me about licensing options for PHPStorm
+
+## Setting up PhpStorm
+
+* https://www.jetbrains.com/help/phpstorm/meet-phpstorm.html
+* https://www.jetbrains.com/help/phpstorm/quick-start-guide-phpstorm.html
+
+PhpStorm UI
+* https://www.jetbrains.com/help/phpstorm/guided-tour-around-the-user-interface.html
