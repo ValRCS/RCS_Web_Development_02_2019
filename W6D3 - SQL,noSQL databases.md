@@ -28,6 +28,11 @@ Domain-specific language used in programming and designed for managing data held
 
 (In general programming CRUD (Create,Read,Update,Delete))
 
+# sample database Chinook
+# fork at https://github.com/ValRCS/chinook-database
+
+![CHINOOK STRUCTURE](img/sqlite-sample-database-color.jpg)
+
 ## Chinook sample database tables
 ### There are 11 tables in the chinook sample database
 
@@ -43,6 +48,7 @@ Domain-specific language used in programming and designed for managing data held
 
 ## Connecting to MySQL in PHP
 * https://secure.php.net/manual/en/mysqlinfo.api.choosing.php
+
 
 ## Connecting into SQLite in PHP
 http://www.sqlitetutorial.net/sqlite-php/
