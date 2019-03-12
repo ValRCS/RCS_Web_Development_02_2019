@@ -46,6 +46,9 @@ Domain-specific language used in programming and designed for managing data held
 *  tracks table store the data of songs. Each track belongs to one album.
 *  playlists & playlist_track tables: playlists table store data about playlists. Each playlist contains a list of tracks. Each track may belong to multiple playlists. The relationship between the playlists table and tracks table is many-to-many. The playlist_track table is used to reflect this relationship.
 
+## SQLite using browser
+* https://sqliteonline.com/
+
 ## Connecting to MySQL in PHP
 * https://secure.php.net/manual/en/mysqlinfo.api.choosing.php
 
