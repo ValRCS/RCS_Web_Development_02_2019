@@ -28,6 +28,30 @@ Domain-specific language used in programming and designed for managing data held
 
 (In general programming CRUD (Create,Read,Update,Delete))
 
+### SELECT DISTINCT column_list
+
+### FROM table_list
+
+###   JOIN table ON join_condition
+  
+### WHERE row_filter
+
+### ORDER BY column
+
+### LIMIT count OFFSET offset
+
+### GROUP BY column
+
+### HAVING group_filter
+
+* Use ORDER BY clause to sort the result set
+* Use DISTINCT clause to query unique rows in a table
+* Use WHERE clause to filter rows in the result set
+* Use LIMIT OFFSET clauses to constrain the number of rows returned
+* Use INNER JOIN or LEFT JOIN to query data from multiple tables using join.
+* Use GROUP BY to get the group rows into groups and apply aggregate function for each group.
+* Use HAVING clause to filter groups
+
 # sample database Chinook
 # fork at https://github.com/ValRCS/chinook-database
 
