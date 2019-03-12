@@ -15,9 +15,20 @@
 ### PHP Functions are NOT case-sensitive!
 * https://stackoverflow.com/questions/33273941/php-case-sensitivity
 
+## Variable scope in PHP
+* https://secure.php.net/manual/en/language.variables.scope.php
+
+
+## Include / require in PHP
+* https://www.w3schools.com/PHP/php_includes.asp
+* https://stackoverflow.com/questions/2418473/difference-between-require-include-require-once-and-include-once
+
 ## Object-Oriented PHP
 * https://secure.php.net/manual/en/language.oop5.php
+* https://secure.php.net/manual/en/language.types.object.php
 * https://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762
+* https://stackoverflow.com/questions/1343619/php-real-world-oop-example
+* https://www.killerphp.com/tutorials/php-objects-page-1/
 
 
 
