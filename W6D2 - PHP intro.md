@@ -6,6 +6,9 @@
 
 * https://phptherightway.com/
 
+# PhpStorm manual
+* https://www.jetbrains.com/help/phpstorm/quick-start-guide-phpstorm.html
+
 ## PHP Functions
 * https://secure.php.net/manual/en/language.functions.php
 * https://www.w3schools.com/php7/php7_functions.asp
