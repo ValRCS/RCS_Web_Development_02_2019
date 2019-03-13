@@ -8,3 +8,9 @@
 * https://www.killerphp.com/tutorials/php-objects-page-1/
 * https://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762
 * https://www.tutorialspoint.com/php/php_object_oriented.htm
+
+
+## Prepared Statements in SQL - helps against XSS attacks!
+* https://www.w3schools.com/php/php_mysql_prepared_statements.asp
+* https://secure.php.net/manual/en/mysqli.quickstart.prepared-statements.php
+* https://dev.mysql.com/doc/refman/5.7/en/sql-syntax-prepared-statements.html
