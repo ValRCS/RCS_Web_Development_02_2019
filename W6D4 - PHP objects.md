@@ -9,6 +9,27 @@
 * https://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762
 * https://www.tutorialspoint.com/php/php_object_oriented.htm
 
+# SQL Documentations
+* https://dev.mysql.com/doc/
+
+
+# SQL Create
+
+* http://www.mysqltutorial.org/mysql-create-table/
+* https://www.w3schools.com/php/php_mysql_create_table.asp
+
+# SQL Update
+* https://www.w3schools.com/sql/sql_update.asp
+* https://www.tutorialspoint.com/sql/sql-update-query.htm
+
+# SQL Delete
+* https://www.w3schools.com/sql/sql_delete.asp
+* https://www.tutorialspoint.com/sql/sql-delete-query.htm
+
+# SQL connecting to database with PHP
+* https://www.w3schools.com/php/php_mysql_connect.asp
+* http://php.net/manual/en/function.mysqli-connect.php
+
 
 ## Prepared Statements in SQL - helps against XSS attacks!
 * https://www.w3schools.com/php/php_mysql_prepared_statements.asp
