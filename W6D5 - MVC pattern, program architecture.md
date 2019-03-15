@@ -8,6 +8,8 @@
 * https://medium.freecodecamp.org/simplified-explanation-to-mvc-5d307796df30
 
 ## Lots of variations on MVC
+* https://www.martinfowler.com/eaaDev/uiArchs.html#ModelViewController
+* https://stackoverflow.com/questions/1015813/what-goes-into-the-controller-in-mvc?rq=1
 * http://aalmiray.github.io/griffon-patterns/
 
 ## The bible of design patterns
