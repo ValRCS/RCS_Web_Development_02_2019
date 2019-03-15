@@ -45,6 +45,7 @@ Constructors for initialization, desctuctors for cleanup
 ### Hide your underwear - separate your concerns
 
 No one correct way but do not show more than needed
+* https://stackoverflow.com/questions/19648760/project-structure-for-php
 * https://www.openweb-solutions.net/blog/php-file-structure/
 * https://laravel.com/docs/5.8/structure
 * https://dzone.com/articles/how-to-properly-structure-your-php-projects
