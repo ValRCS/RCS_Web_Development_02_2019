@@ -1,3 +1,25 @@
+# PHP class constructors/destructors
+Constructors for initialization, desctuctors for cleanup
+* http://php.net/manual/en/language.oop5.decon.php
+* https://www.killerphp.com/tutorials/php-objects-page-3/
+
+
+
+# PHP interfaces, traits and abstract classes
+
+## Interfaces
+* http://php.net/manual/en/language.oop5.interfaces.php
+* https://daylerees.com/php-interfaces-explained/
+* https://stackoverflow.com/questions/20463/what-is-the-point-of-interfaces-in-php
+
+## Traits
+* http://php.net/manual/en/language.oop5.traits.php
+* https://stackoverflow.com/questions/9205083/traits-vs-interfaces
+
+## Abstract Classes
+* http://php.net/manual/en/language.oop5.abstract.php
+* https://www.geeksforgeeks.org/abstract-classes-in-php/
+
 # MVC - Model View Controller 
 
 * https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
