@@ -1,3 +1,10 @@
+# Sessions
+* http://php.net/manual/en/features.sessions.php
+* http://php.net/manual/en/book.session.php
+* http://php.net/manual/en/reserved.variables.session.php
+* https://www.w3schools.com/pHp/php_sessions.asp (well unique hash is stored on users computer)
+* https://www.tutorialspoint.com/php/php_sessions.htm
+
 # Authentication
 * http://php.net/manual/en/features.http-auth.php
 * https://developer.okta.com/blog/2018/07/09/five-minute-php-app-auth
