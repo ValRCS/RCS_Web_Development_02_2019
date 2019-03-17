@@ -21,3 +21,6 @@
 # REST API
 
 * Video Explaining Concepts - https://www.youtube.com/watch?v=7YcW25PHnAA
+
+# Error Reporting
+* http://php.net/manual/en/function.error-reporting.php
