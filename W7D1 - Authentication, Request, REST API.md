@@ -27,11 +27,13 @@
 * https://phpdelusions.net/articles/error_reporting
 
 ### TLDR; When Developing  change the following setting:
+
 file - PHP.ini
+
 **display_errors = on**
-Save .ini AND restart Apache to see this
-This will show even syntax errors (ie echhho "Bad typing")
-Change it to off when deploying
+* Save .ini AND restart Apache to see this
+* This will show even syntax errors (ie echhho "Bad typing")
+* Change it to off when deploying
 
 * https://stackify.com/display-php-errors/
 
