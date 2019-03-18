@@ -26,6 +26,15 @@
 * http://php.net/manual/en/function.error-reporting.php
 * https://phpdelusions.net/articles/error_reporting
 
+###TLDR; When Developing  change the following setting:
+file - PHP.ini
+**display_errors = on**
+Save .ini AND restart Apache to see this
+This will show even syntax errors (ie echhho "Bad typing")
+Change it to off when deploying
+
+* https://stackify.com/display-php-errors/
+
 ## PHP delusions - opinions of an experienced PHP developer 
 Only person to hold a gold badge in  PDO,  Mysqli and  SQL Injection on Stack Overflow(surprise, he likes PDO over sqli!)
 * https://phpdelusions.net/tophttps://phpdelusions.net/pdo_examples/connect_to_mysql
