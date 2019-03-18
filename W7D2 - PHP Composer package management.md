@@ -5,6 +5,8 @@
 
 * https://www.codementor.io/jadjoubran/php-tutorial-getting-started-with-composer-8sbn6fb6t
 
+* https://stackoverflow.com/questions/20595801/how-to-fix-composer-error-could-not-scan-for-classes-inside-dir
+
 ## Curated List of Awesome PHP packages (to use with composer)
 * https://github.com/ziadoz/awesome-php
 * https://blog.martinhujer.cz/17-tips-for-using-composer-efficiently/
