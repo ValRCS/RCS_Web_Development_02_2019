@@ -26,5 +26,8 @@
 * http://php.net/manual/en/function.error-reporting.php
 
 
-## PHP delusions - opinions of an experienced PHP developer (he likes PDO over sqli!)
-* https://phpdelusions.net/top
+## PHP delusions - opinions of an experienced PHP developer 
+(he likes PDO over sqli!)
+* https://phpdelusions.net/tophttps://phpdelusions.net/pdo_examples/connect_to_mysql
+### PDO connection to MySQL
+* https://phpdelusions.net/pdo_examples/connect_to_mysql
