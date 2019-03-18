@@ -26,7 +26,7 @@
 * http://php.net/manual/en/function.error-reporting.php
 * https://phpdelusions.net/articles/error_reporting
 
-###TLDR; When Developing  change the following setting:
+### TLDR; When Developing  change the following setting:
 file - PHP.ini
 **display_errors = on**
 Save .ini AND restart Apache to see this
