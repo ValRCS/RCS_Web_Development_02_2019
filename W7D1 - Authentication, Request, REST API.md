@@ -24,10 +24,12 @@
 
 # Error Reporting
 * http://php.net/manual/en/function.error-reporting.php
-
+* https://phpdelusions.net/articles/error_reporting
 
 ## PHP delusions - opinions of an experienced PHP developer 
 Only person to hold a gold badge in  PDO,  Mysqli and  SQL Injection on Stack Overflow(surprise, he likes PDO over sqli!)
 * https://phpdelusions.net/tophttps://phpdelusions.net/pdo_examples/connect_to_mysql
 ### PDO connection to MySQL
 * https://phpdelusions.net/pdo_examples/connect_to_mysql
+
+
