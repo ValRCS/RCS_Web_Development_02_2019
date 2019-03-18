@@ -24,3 +24,7 @@
 
 # Error Reporting
 * http://php.net/manual/en/function.error-reporting.php
+
+
+## PHP delusions - opinions of an experienced PHP developer (he likes PDO over sqli!)
+* https://phpdelusions.net/top
