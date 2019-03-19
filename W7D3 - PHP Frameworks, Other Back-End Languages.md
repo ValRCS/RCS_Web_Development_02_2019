@@ -10,6 +10,16 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frame
 
 * https://coderseye.com/best-php-frameworks-for-web-developers/
 
+
+# Containers (virtualization) for PHP and pretty much everything else
+* https://medium.com/@jeffochoa/using-docker-for-local-development-3f7d975bbadb
+
+* https://www.docker.com/
+* https://www.docker.com/get-started
+* https://laravel-news.com/docker-for-php-developers
+* https://phpdocker.io/
+
+
 # Other Languages for back-end
 
 ## Javascript (Node.js)
