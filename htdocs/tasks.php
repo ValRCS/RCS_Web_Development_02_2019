@@ -7,7 +7,7 @@
  */
 require_once ('FirstClass.php');
 require_once ('SecondInheritor.php');
-require_once ('Animal.php');
+require_once('Animal.php');
 
 echo '<h1>Testing MySQL connection</h1>';
 

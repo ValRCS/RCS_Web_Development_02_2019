@@ -24,7 +24,7 @@ session_start();
           echo "Connection failed: " . $conn->connect_error;
       }
 
-      $stmt = $link->prepare("SELECT nickname, name, hash FROM users WHERE nickname = ?");
+      $stmt = $link->prepare("SELECT nickname, name, hash, id FROM users WHERE nickname = ?");
       $stmt->bind_param("s", $_POST['uname']);
       $stmt->execute();
 
@@ -48,6 +48,8 @@ session_start();
               echo "Success! You are logged in!<br>";
               //This is where we authorize user to stay logged in for the duration of the session
               $_SESSION["uname"] = $_POST['uname'];
+              $_SESSION["userId"] = $row[3];
+              echo "Your user Id is".$_SESSION["userId"]."<br>";
           } else {
               echo "Hmm you might not exist or wrong password<br>";
           }
