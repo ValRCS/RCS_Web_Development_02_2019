@@ -31,6 +31,24 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frame
 * https://laravel-news.com/docker-for-php-developers
 * https://phpdocker.io/
 
+# Servers for hosting / testing / development
+## One click LAMP install on Digital Ocean (lowest 5 Euros a month is sufficient)
+* https://www.digitalocean.com/docs/marketplace/lamp/
+
+## Expensive offerings (pay by minute)
+* https://bitnami.com/stack/lamp/cloud
+Cheapest would be Microsoft's Azure B1S - https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/
+
+### Pretty much ALL web hosting providers provide PHP/MySQL 
+
+# Latvian Web Hosts compared (all serve LAMP)
+* http://hostingi.lv/
+
+
+## Longer step-by-step LAMP install
+* https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
+* https://www.linode.com/docs/web-servers/lamp/
+
 
 # Other Languages for back-end
 
