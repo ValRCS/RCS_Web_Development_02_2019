@@ -32,6 +32,16 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frame
 * https://laravel-news.com/docker-for-php-developers
 * https://phpdocker.io/
 
+## Laravel recommends Homestead through Vagrant
+* https://laravel.com/docs/5.1/homestead
+
+## Homestead/Vagrant vs Docker
+* https://stackshare.io/stackups/docker-cloud-vs-laravel-homestead
+
+Discussion on Docker vs Homestead (2017 - things change quickly)
+* https://www.reddit.com/r/laravel/comments/6s8qps/current_status_laradock_vs_homestead/?st=jtg10ejr&sh=a3539e7c
+* https://deliciousbrains.com/vagrant-docker-wordpress-development/
+
 # Servers for hosting / testing / development
 ## One click LAMP install on Digital Ocean (lowest 5 Euros a month is sufficient)
 * https://www.digitalocean.com/docs/marketplace/lamp/
