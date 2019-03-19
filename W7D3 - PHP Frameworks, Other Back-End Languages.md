@@ -10,6 +10,12 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frame
 
 * https://coderseye.com/best-php-frameworks-for-web-developers/
 
+# Laravel
+* https://laravel.com/
+
+* https://laravel-news.com/your-first-laravel-application
+* https://laravel.com/docs/5.1/quickstart-intermediate
+* https://www.tutorialspoint.com/laravel/
 
 # Containers (virtualization) for PHP and pretty much everything else
 * https://medium.com/@jeffochoa/using-docker-for-local-development-3f7d975bbadb
