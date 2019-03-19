@@ -11,6 +11,11 @@
 * https://github.com/ziadoz/awesome-php
 * https://blog.martinhujer.cz/17-tips-for-using-composer-efficiently/
 
+# Autoloader (how to skip include/require)
+* http://php.net/manual/en/language.oop5.autoload.php
+* https://stackoverflow.com/questions/7651509/what-is-autoloading-how-do-you-use-spl-autoload-autoload-and-spl-autoload-re
+* https://medium.com/@jodylecompte/making-sense-of-php-autoloading-ae1dd11678c2
+
 
 
 ## More on building REST API
@@ -21,3 +26,9 @@
 ## Testing Libraries
 * https://www.hongkiat.com/blog/automated-php-test/
 * https://phpunit.de/
+
+
+# Routing (have one PHP file serve as single entry point for the whole site)
+* https://www.taniarascia.com/the-simplest-php-router/
+* https://medium.com/the-andela-way/how-to-build-a-basic-server-side-routing-system-in-php-e52e613cf241
+* https://joshtronic.com/2015/05/24/basic-page-routing-in-php/
