@@ -37,7 +37,7 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frame
 
 ## Expensive offerings (pay by minute)
 * https://bitnami.com/stack/lamp/cloud
-Cheapest would be Microsoft's Azure B1S - https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/
+* Cheapest would be Microsoft's Azure B1S - https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/
 
 ### Pretty much ALL web hosting providers provide PHP/MySQL 
 
