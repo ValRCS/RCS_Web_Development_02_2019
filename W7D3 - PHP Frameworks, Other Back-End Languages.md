@@ -6,6 +6,7 @@
 # Style Guidelines for PHP
 * https://www.php-fig.org/psr/
 * https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
+* https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
 * https://www.php-fig.org/psr/psr-4/
 
 # What is the purpose behind frameworks?
