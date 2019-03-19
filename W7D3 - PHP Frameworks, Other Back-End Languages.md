@@ -3,6 +3,11 @@
 * https://github.com/kamranahmedse/developer-roadmap 
 ![Roadmap](https://github.com/kamranahmedse/developer-roadmap/raw/master/images/backend.png)
 
+# Style Guidelines for PHP
+* https://www.php-fig.org/psr/
+* https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
+* https://www.php-fig.org/psr/psr-4/
+
 # What is the purpose behind frameworks?
 
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks
