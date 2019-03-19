@@ -20,6 +20,7 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frame
 * https://laravel.com/
 
 * https://laravel-news.com/your-first-laravel-application
+* https://laravel.com/docs/5.1/quickstart - TODO List!!!
 * https://laravel.com/docs/5.1/quickstart-intermediate
 * https://www.tutorialspoint.com/laravel/
 
