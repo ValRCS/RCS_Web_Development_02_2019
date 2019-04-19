@@ -31,5 +31,7 @@ https://www.atlassian.com/git
 ## Github Guides
 https://guides.github.com/
 
+### Front-End Overview
+https://frontendmasters.com/books/front-end-handbook/2019/
 
 
